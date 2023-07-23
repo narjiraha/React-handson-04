@@ -1,0 +1,38 @@
+.body {
+  background-image: linear-gradient(pink, white);
+  height: 100vh;
+}
+
+.navbar {
+  display: flex;
+  background-color: rgb(14, 14, 71);
+  padding: 20px;
+  margin: 10px;
+  justify-content: center;
+  justify-content: space-around;
+}
+
+.text {
+  text-decoration: none;
+  font-size: larger;
+  color: white;
+}
+
+.pages {
+  padding: 20px;
+  margin: 10px;
+}
+
+.table {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* width: 90vw; */
+  background-color: aliceblue;
+}
+
+.tableStyle {
+  height: 500px;
+  width: 90vw;
+  text-align: center;
+}
